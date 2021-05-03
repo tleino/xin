@@ -1,0 +1,7 @@
+xin
+===
+
+Receive forwarded or previously recorded X11 keyboard and/or mouse
+input feed from standard input.
+
+See also: https://github.com/tleino/xout
